@@ -5,6 +5,11 @@ date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
 tags: []
 related_posts: []
+menu:
+  footer:
+    name: Draft
+    weight: 2
+    parent: item_NoZyocQ
 ---
 ## What are draft posts?
 
