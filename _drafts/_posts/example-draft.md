@@ -6,10 +6,14 @@ sub_heading: ''
 tags: []
 related_posts: []
 menu:
-  footer:
+  navigation:
     name: Draft
     weight: 2
-    parent: item_NoZyocQ
+    parent: item_LDV1nky
+  footer:
+    name: Draft
+    weight: 3
+    parent: item_nhq2QTx
 ---
 ## What are draft posts?
 
